@@ -1,10 +1,10 @@
-*Pluscover: Innovación y Calidad en Soluciones de Suelos y Paredes*
+#*Pluscover: Innovación y Calidad en Soluciones de Suelos y Paredes*
 
-***Pluscover es una empresa líder en el mercado de suelos de parquet, con una destacada presencia en España, Francia, Portugal y Alemania. Nos especializamos en la fabricación y distribución de suelos de alta calidad, ofreciendo una amplia gama de productos que incluyen suelos de madera, vinilo, WPC (Wood Plastic Composite), corcho y soluciones innovadoras para paredes de baños.
+###Pluscover es una empresa líder en el mercado de suelos de parquet, con una destacada presencia en España, Francia, Portugal y Alemania. Nos especializamos en la fabricación y distribución de suelos de alta calidad, ofreciendo una amplia gama de productos que incluyen suelos de madera, vinilo, WPC (Wood Plastic Composite), corcho y soluciones innovadoras para paredes de baños.
 
-Nuestra misión es proporcionar a nuestros clientes productos que combinan elegancia, durabilidad y sostenibilidad. Pluscover se distingue por su compromiso con la excelencia y la innovación en cada etapa del proceso de fabricación, asegurando que nuestros suelos cumplan con los más altos estándares de calidad.***
+Nuestra misión es proporcionar a nuestros clientes productos que combinan elegancia, durabilidad y sostenibilidad. Pluscover se distingue por su compromiso con la excelencia y la innovación en cada etapa del proceso de fabricación, asegurando que nuestros suelos cumplan con los más altos estándares de calidad.
 
-Diversidad de Productos
+##Diversidad de Productos
 
 Suelos de Madera: Ofrecemos una selección exclusiva de suelos de madera que destacan por su belleza natural y resistencia. Nuestros suelos de madera están disponibles en una variedad de acabados y estilos para adaptarse a cualquier diseño interior.
 
